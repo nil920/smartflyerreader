@@ -1,0 +1,10 @@
+D:\Compare\CompareDatabase\bin\Debug\CompareDatabase.dacpac
+D:\Compare\CompareDatabase\bin\Debug\CompareDatabase.dll
+D:\Compare\CompareDatabase\bin\Debug\CompareDatabase.pdb
+D:\Compare\CompareDatabase\obj\Debug\CompareDatabase.sqlprojAssemblyReference.cache
+D:\Compare\CompareDatabase\obj\Debug\CompareDatabase.dll
+D:\Compare\CompareDatabase\obj\Debug\CompareDatabase.pdb
+D:\Compare\CompareDatabase\obj\Debug\Model.xml
+D:\Compare\CompareDatabase\obj\Debug\refactor.xml
+D:\Compare\CompareDatabase\obj\Debug\postdeploy.sql
+D:\Compare\CompareDatabase\obj\Debug\predeploy.sql

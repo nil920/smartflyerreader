@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Compare\\compare\\compare.csproj",
+      "projectUniqueName": "D:\\Compare\\smartflyerreader\\compare\\compare.csproj",
       "projectName": "compare",
-      "projectPath": "D:\\Compare\\compare\\compare.csproj",
+      "projectPath": "D:\\Compare\\smartflyerreader\\compare\\compare.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\Compare\\compare\\obj\\",
+      "outputPath": "D:\\Compare\\smartflyerreader\\compare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

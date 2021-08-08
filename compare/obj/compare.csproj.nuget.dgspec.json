@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Compare\\Compare\\compare.csproj": {}
+    "D:\\Compare\\smartflyerreader\\compare\\compare.csproj": {}
   },
   "projects": {
-    "D:\\Compare\\Compare\\compare.csproj": {
+    "D:\\Compare\\smartflyerreader\\compare\\compare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Compare\\Compare\\compare.csproj",
+        "projectUniqueName": "D:\\Compare\\smartflyerreader\\compare\\compare.csproj",
         "projectName": "compare",
-        "projectPath": "D:\\Compare\\Compare\\compare.csproj",
+        "projectPath": "D:\\Compare\\smartflyerreader\\compare\\compare.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\Compare\\Compare\\obj\\",
+        "outputPath": "D:\\Compare\\smartflyerreader\\compare\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compare", "compare.csproj", "{824E3073-26CB-4C5F-BF7B-66772E70C9D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare", "Compare.csproj", "{06196C86-295C-4E19-A0EF-96F3FA15DA7F}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CompareDatabase", "..\CompareDatabase\CompareDatabase.sqlproj", "{D0C706C6-EA84-46F7-A40C-70E9BA6D8C35}"
 EndProject
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{824E3073-26CB-4C5F-BF7B-66772E70C9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{824E3073-26CB-4C5F-BF7B-66772E70C9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{824E3073-26CB-4C5F-BF7B-66772E70C9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{824E3073-26CB-4C5F-BF7B-66772E70C9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06196C86-295C-4E19-A0EF-96F3FA15DA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06196C86-295C-4E19-A0EF-96F3FA15DA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06196C86-295C-4E19-A0EF-96F3FA15DA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06196C86-295C-4E19-A0EF-96F3FA15DA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D0C706C6-EA84-46F7-A40C-70E9BA6D8C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0C706C6-EA84-46F7-A40C-70E9BA6D8C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0C706C6-EA84-46F7-A40C-70E9BA6D8C35}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
@@ -28,6 +28,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E7490625-A1A8-43F9-8552-CA8460CCDFCD}
+		SolutionGuid = {8CA1FDAD-47F4-449D-B9ED-93631AD4265C}
 	EndGlobalSection
 EndGlobal
